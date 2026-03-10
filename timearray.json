@@ -1,0 +1,977 @@
+[
+  {
+    "country": "Afghanistan",
+    "hour": -1,
+    "minute": 0
+  },
+  {
+    "country": "Albania",
+    "hour": -5,
+    "minute": 30
+  },
+  {
+    "country": "Algeria",
+    "hour": -5,
+    "minute": 30
+  },
+  {
+    "country": "Andorra",
+    "hour": -5,
+    "minute": 30
+  },
+  {
+    "country": "Angola",
+    "hour": -5,
+    "minute": 30
+  },
+  {
+    "country": "Antigua and Barbuda",
+    "hour": -10,
+    "minute": 30
+  },
+  {
+    "country": "Argentina",
+    "hour": -9,
+    "minute": 30
+  },
+  {
+    "country": "Armenia",
+    "hour": -2,
+    "minute": 30
+  },
+  {
+    "country": "Australia",
+    "hour": 5,
+    "minute": 30
+  },
+  {
+    "country": "Austria",
+    "hour": -5,
+    "minute": 30
+  },
+  {
+    "country": "Azerbaijan",
+    "hour": -2,
+    "minute": 30
+  },
+  {
+    "country": "Bahamas",
+    "hour": -11,
+    "minute": 30
+  },
+  {
+    "country": "Bahrain",
+    "hour": -3,
+    "minute": 30
+  },
+  {
+    "country": "Bangladesh",
+    "hour": 0,
+    "minute": 30
+  },
+  {
+    "country": "Barbados",
+    "hour": -10,
+    "minute": 30
+  },
+  {
+    "country": "Belarus",
+    "hour": -3,
+    "minute": 30
+  },
+  {
+    "country": "Belgium",
+    "hour": -5,
+    "minute": 30
+  },
+  {
+    "country": "Belize",
+    "hour": -12,
+    "minute": 30
+  },
+  {
+    "country": "Benin",
+    "hour": -5,
+    "minute": 30
+  },
+  {
+    "country": "Bhutan",
+    "hour": 0,
+    "minute": 30
+  },
+  {
+    "country": "Bolivia",
+    "hour": -10,
+    "minute": 30
+  },
+  {
+    "country": "Bosnia and Herzegovina",
+    "hour": -5,
+    "minute": 30
+  },
+  {
+    "country": "Botswana",
+    "hour": -4,
+    "minute": 30
+  },
+  {
+    "country": "Brazil",
+    "hour": -9,
+    "minute": 30
+  },
+  {
+    "country": "Brunei",
+    "hour": 2,
+    "minute": 30
+  },
+  {
+    "country": "Bulgaria",
+    "hour": -4,
+    "minute": 30
+  },
+  {
+    "country": "Burkina Faso",
+    "hour": -6,
+    "minute": 30
+  },
+  {
+    "country": "Burundi",
+    "hour": -4,
+    "minute": 30
+  },
+  {
+    "country": "Cabo Verde",
+    "hour": -7,
+    "minute": 30
+  },
+  {
+    "country": "Cambodia",
+    "hour": 1,
+    "minute": 30
+  },
+  {
+    "country": "Cameroon",
+    "hour": -5,
+    "minute": 30
+  },
+  {
+    "country": "Canada",
+    "hour": -11,
+    "minute": 30
+  },
+  {
+    "country": "Central African Republic",
+    "hour": -5,
+    "minute": 30
+  },
+  {
+    "country": "Chad",
+    "hour": -5,
+    "minute": 30
+  },
+  {
+    "country": "Chile",
+    "hour": -9,
+    "minute": 30
+  },
+  {
+    "country": "China",
+    "hour": 2,
+    "minute": 30
+  },
+  {
+    "country": "Colombia",
+    "hour": -11,
+    "minute": 30
+  },
+  {
+    "country": "Comoros",
+    "hour": -3,
+    "minute": 30
+  },
+  {
+    "country": "Congo",
+    "hour": -5,
+    "minute": 30
+  },
+  {
+    "country": "Costa Rica",
+    "hour": -12,
+    "minute": 30
+  },
+  {
+    "country": "Croatia",
+    "hour": -5,
+    "minute": 30
+  },
+  {
+    "country": "Cuba",
+    "hour": -11,
+    "minute": 30
+  },
+  {
+    "country": "Cyprus",
+    "hour": -4,
+    "minute": 30
+  },
+  {
+    "country": "Czechia",
+    "hour": -5,
+    "minute": 30
+  },
+  {
+    "country": "Democratic Republic of the Congo",
+    "hour": -5,
+    "minute": 30
+  },
+  {
+    "country": "Denmark",
+    "hour": -5,
+    "minute": 30
+  },
+  {
+    "country": "Djibouti",
+    "hour": -3,
+    "minute": 30
+  },
+  {
+    "country": "Dominica",
+    "hour": -10,
+    "minute": 30
+  },
+  {
+    "country": "Dominican Republic",
+    "hour": -10,
+    "minute": 30
+  },
+  {
+    "country": "Ecuador",
+    "hour": -11,
+    "minute": 30
+  },
+  {
+    "country": "Egypt",
+    "hour": -4,
+    "minute": 30
+  },
+  {
+    "country": "El Salvador",
+    "hour": -12,
+    "minute": 30
+  },
+  {
+    "country": "Equatorial Guinea",
+    "hour": -5,
+    "minute": 30
+  },
+  {
+    "country": "Eritrea",
+    "hour": -3,
+    "minute": 30
+  },
+  {
+    "country": "Estonia",
+    "hour": -4,
+    "minute": 30
+  },
+  {
+    "country": "Eswatini",
+    "hour": -4,
+    "minute": 30
+  },
+  {
+    "country": "Ethiopia",
+    "hour": -3,
+    "minute": 30
+  },
+  {
+    "country": "Fiji",
+    "hour": 6,
+    "minute": 30
+  },
+  {
+    "country": "Finland",
+    "hour": -4,
+    "minute": 30
+  },
+  {
+    "country": "France",
+    "hour": -5,
+    "minute": 30
+  },
+  {
+    "country": "Gabon",
+    "hour": -5,
+    "minute": 30
+  },
+  {
+    "country": "Gambia",
+    "hour": -6,
+    "minute": 30
+  },
+  {
+    "country": "Georgia",
+    "hour": -2,
+    "minute": 30
+  },
+  {
+    "country": "Germany",
+    "hour": -5,
+    "minute": 30
+  },
+  {
+    "country": "Ghana",
+    "hour": -6,
+    "minute": 30
+  },
+  {
+    "country": "Greece",
+    "hour": -4,
+    "minute": 30
+  },
+  {
+    "country": "Grenada",
+    "hour": -10,
+    "minute": 30
+  },
+  {
+    "country": "Guatemala",
+    "hour": -12,
+    "minute": 30
+  },
+  {
+    "country": "Guinea",
+    "hour": -6,
+    "minute": 30
+  },
+  {
+    "country": "Guinea-Bissau",
+    "hour": -6,
+    "minute": 30
+  },
+  {
+    "country": "Guyana",
+    "hour": -10,
+    "minute": 30
+  },
+  {
+    "country": "Haiti",
+    "hour": -11,
+    "minute": 30
+  },
+  {
+    "country": "Honduras",
+    "hour": -12,
+    "minute": 30
+  },
+  {
+    "country": "Hungary",
+    "hour": -5,
+    "minute": 30
+  },
+  {
+    "country": "Iceland",
+    "hour": -6,
+    "minute": 30
+  },
+  {
+    "country": "India",
+    "hour": 0,
+    "minute": 0
+  },
+  {
+    "country": "Indonesia",
+    "hour": 1,
+    "minute": 30
+  },
+  {
+    "country": "Iran",
+    "hour": -2,
+    "minute": 0
+  },
+  {
+    "country": "Iraq",
+    "hour": -3,
+    "minute": 30
+  },
+  {
+    "country": "Ireland",
+    "hour": -6,
+    "minute": 30
+  },
+  {
+    "country": "Israel",
+    "hour": -4,
+    "minute": 30
+  },
+  {
+    "country": "Italy",
+    "hour": -5,
+    "minute": 30
+  },
+  {
+    "country": "Jamaica",
+    "hour": -11,
+    "minute": 30
+  },
+  {
+    "country": "Japan",
+    "hour": 3,
+    "minute": 30
+  },
+  {
+    "country": "Jordan",
+    "hour": -3,
+    "minute": 30
+  },
+  {
+    "country": "Kazakhstan",
+    "hour": -1,
+    "minute": 30
+  },
+  {
+    "country": "Kenya",
+    "hour": -3,
+    "minute": 30
+  },
+  {
+    "country": "Kiribati",
+    "hour": 6,
+    "minute": 30
+  },
+  {
+    "country": "Kuwait",
+    "hour": -3,
+    "minute": 30
+  },
+  {
+    "country": "Kyrgyzstan",
+    "hour": 0,
+    "minute": 30
+  },
+  {
+    "country": "Laos",
+    "hour": 1,
+    "minute": 30
+  },
+  {
+    "country": "Latvia",
+    "hour": -4,
+    "minute": 30
+  },
+  {
+    "country": "Lebanon",
+    "hour": -4,
+    "minute": 30
+  },
+  {
+    "country": "Lesotho",
+    "hour": -4,
+    "minute": 30
+  },
+  {
+    "country": "Liberia",
+    "hour": -6,
+    "minute": 30
+  },
+  {
+    "country": "Libya",
+    "hour": -4,
+    "minute": 30
+  },
+  {
+    "country": "Liechtenstein",
+    "hour": -5,
+    "minute": 30
+  },
+  {
+    "country": "Lithuania",
+    "hour": -4,
+    "minute": 30
+  },
+  {
+    "country": "Luxembourg",
+    "hour": -5,
+    "minute": 30
+  },
+  {
+    "country": "Madagascar",
+    "hour": -3,
+    "minute": 30
+  },
+  {
+    "country": "Malawi",
+    "hour": -4,
+    "minute": 30
+  },
+  {
+    "country": "Malaysia",
+    "hour": 2,
+    "minute": 30
+  },
+  {
+    "country": "Maldives",
+    "hour": -1,
+    "minute": 30
+  },
+  {
+    "country": "Mali",
+    "hour": -6,
+    "minute": 30
+  },
+  {
+    "country": "Malta",
+    "hour": -5,
+    "minute": 30
+  },
+  {
+    "country": "Marshall Islands",
+    "hour": 6,
+    "minute": 30
+  },
+  {
+    "country": "Mauritania",
+    "hour": -6,
+    "minute": 30
+  },
+  {
+    "country": "Mauritius",
+    "hour": -2,
+    "minute": 30
+  },
+  {
+    "country": "Mexico",
+    "hour": -12,
+    "minute": 30
+  },
+  {
+    "country": "Micronesia",
+    "hour": 4,
+    "minute": 30
+  },
+  {
+    "country": "Moldova",
+    "hour": -4,
+    "minute": 30
+  },
+  {
+    "country": "Monaco",
+    "hour": -5,
+    "minute": 30
+  },
+  {
+    "country": "Mongolia",
+    "hour": 2,
+    "minute": 30
+  },
+  {
+    "country": "Montenegro",
+    "hour": -5,
+    "minute": 30
+  },
+  {
+    "country": "Morocco",
+    "hour": -6,
+    "minute": 30
+  },
+  {
+    "country": "Mozambique",
+    "hour": -4,
+    "minute": 30
+  },
+  {
+    "country": "Myanmar",
+    "hour": 1,
+    "minute": 0
+  },
+  {
+    "country": "Namibia",
+    "hour": -4,
+    "minute": 30
+  },
+  {
+    "country": "Nauru",
+    "hour": 6,
+    "minute": 30
+  },
+  {
+    "country": "Nepal",
+    "hour": 0,
+    "minute": 15
+  },
+  {
+    "country": "Netherlands",
+    "hour": -5,
+    "minute": 30
+  },
+  {
+    "country": "New Zealand",
+    "hour": 7,
+    "minute": 30
+  },
+  {
+    "country": "Nicaragua",
+    "hour": -12,
+    "minute": 30
+  },
+  {
+    "country": "Niger",
+    "hour": -5,
+    "minute": 30
+  },
+  {
+    "country": "Nigeria",
+    "hour": -5,
+    "minute": 30
+  },
+  {
+    "country": "North Korea",
+    "hour": 3,
+    "minute": 30
+  },
+  {
+    "country": "North Macedonia",
+    "hour": -5,
+    "minute": 30
+  },
+  {
+    "country": "Norway",
+    "hour": -5,
+    "minute": 30
+  },
+  {
+    "country": "Oman",
+    "hour": -2,
+    "minute": 30
+  },
+  {
+    "country": "Pakistan",
+    "hour": -1,
+    "minute": 30
+  },
+  {
+    "country": "Palau",
+    "hour": 3,
+    "minute": 30
+  },
+  {
+    "country": "Palestine",
+    "hour": -4,
+    "minute": 30
+  },
+  {
+    "country": "Panama",
+    "hour": -11,
+    "minute": 30
+  },
+  {
+    "country": "Papua New Guinea",
+    "hour": 4,
+    "minute": 30
+  },
+  {
+    "country": "Paraguay",
+    "hour": -9,
+    "minute": 30
+  },
+  {
+    "country": "Peru",
+    "hour": -11,
+    "minute": 30
+  },
+  {
+    "country": "Philippines",
+    "hour": 2,
+    "minute": 30
+  },
+  {
+    "country": "Poland",
+    "hour": -5,
+    "minute": 30
+  },
+  {
+    "country": "Portugal",
+    "hour": -6,
+    "minute": 30
+  },
+  {
+    "country": "Qatar",
+    "hour": -3,
+    "minute": 30
+  },
+  {
+    "country": "Romania",
+    "hour": -4,
+    "minute": 30
+  },
+  {
+    "country": "Russia",
+    "hour": -3,
+    "minute": 30
+  },
+  {
+    "country": "Rwanda",
+    "hour": -4,
+    "minute": 30
+  },
+  {
+    "country": "Saint Kitts and Nevis",
+    "hour": -10,
+    "minute": 30
+  },
+  {
+    "country": "Saint Lucia",
+    "hour": -10,
+    "minute": 30
+  },
+  {
+    "country": "Saint Vincent and the Grenadines",
+    "hour": -10,
+    "minute": 30
+  },
+  {
+    "country": "Samoa",
+    "hour": 7,
+    "minute": 30
+  },
+  {
+    "country": "San Marino",
+    "hour": -5,
+    "minute": 30
+  },
+  {
+    "country": "Sao Tome and Principe",
+    "hour": -6,
+    "minute": 30
+  },
+  {
+    "country": "Saudi Arabia",
+    "hour": -3,
+    "minute": 30
+  },
+  {
+    "country": "Senegal",
+    "hour": -6,
+    "minute": 30
+  },
+  {
+    "country": "Serbia",
+    "hour": -5,
+    "minute": 30
+  },
+  {
+    "country": "Seychelles",
+    "hour": -2,
+    "minute": 30
+  },
+  {
+    "country": "Sierra Leone",
+    "hour": -6,
+    "minute": 30
+  },
+  {
+    "country": "Singapore",
+    "hour": 2,
+    "minute": 30
+  },
+  {
+    "country": "Slovakia",
+    "hour": -5,
+    "minute": 30
+  },
+  {
+    "country": "Slovenia",
+    "hour": -5,
+    "minute": 30
+  },
+  {
+    "country": "Solomon Islands",
+    "hour": 5,
+    "minute": 30
+  },
+  {
+    "country": "Somalia",
+    "hour": -3,
+    "minute": 30
+  },
+  {
+    "country": "South Africa",
+    "hour": -4,
+    "minute": 30
+  },
+  {
+    "country": "South Korea",
+    "hour": 3,
+    "minute": 30
+  },
+  {
+    "country": "South Sudan",
+    "hour": -4,
+    "minute": 30
+  },
+  {
+    "country": "Spain",
+    "hour": -5,
+    "minute": 30
+  },
+  {
+    "country": "Sri Lanka",
+    "hour": 0,
+    "minute": 0
+  },
+  {
+    "country": "Sudan",
+    "hour": -4,
+    "minute": 30
+  },
+  {
+    "country": "Suriname",
+    "hour": -9,
+    "minute": 30
+  },
+  {
+    "country": "Sweden",
+    "hour": -5,
+    "minute": 30
+  },
+  {
+    "country": "Switzerland",
+    "hour": -5,
+    "minute": 30
+  },
+  {
+    "country": "Syria",
+    "hour": -3,
+    "minute": 30
+  },
+  {
+    "country": "Taiwan",
+    "hour": 2,
+    "minute": 30
+  },
+  {
+    "country": "Tajikistan",
+    "hour": -1,
+    "minute": 30
+  },
+  {
+    "country": "Tanzania",
+    "hour": -3,
+    "minute": 30
+  },
+  {
+    "country": "Thailand",
+    "hour": 1,
+    "minute": 30
+  },
+  {
+    "country": "Timor-Leste",
+    "hour": 3,
+    "minute": 30
+  },
+  {
+    "country": "Togo",
+    "hour": -6,
+    "minute": 30
+  },
+  {
+    "country": "Tonga",
+    "hour": 7,
+    "minute": 30
+  },
+  {
+    "country": "Trinidad and Tobago",
+    "hour": -10,
+    "minute": 30
+  },
+  {
+    "country": "Tunisia",
+    "hour": -5,
+    "minute": 30
+  },
+  {
+    "country": "Turkey",
+    "hour": -3,
+    "minute": 30
+  },
+  {
+    "country": "Turkmenistan",
+    "hour": -1,
+    "minute": 30
+  },
+  {
+    "country": "Tuvalu",
+    "hour": 6,
+    "minute": 30
+  },
+  {
+    "country": "Uganda",
+    "hour": -3,
+    "minute": 30
+  },
+  {
+    "country": "Ukraine",
+    "hour": -4,
+    "minute": 30
+  },
+  {
+    "country": "United Arab Emirates",
+    "hour": -2,
+    "minute": 30
+  },
+  {
+    "country": "United Kingdom",
+    "hour": -6,
+    "minute": 30
+  },
+  {
+    "country": "United States",
+    "hour": -11,
+    "minute": 30
+  },
+  {
+    "country": "Uruguay",
+    "hour": -9,
+    "minute": 30
+  },
+  {
+    "country": "Uzbekistan",
+    "hour": -1,
+    "minute": 30
+  },
+  {
+    "country": "Vanuatu",
+    "hour": 5,
+    "minute": 30
+  },
+  {
+    "country": "Vatican City",
+    "hour": -5,
+    "minute": 30
+  },
+  {
+    "country": "Venezuela",
+    "hour": -10,
+    "minute": 30
+  },
+  {
+    "country": "Vietnam",
+    "hour": 1,
+    "minute": 30
+  },
+  {
+    "country": "Yemen",
+    "hour": -3,
+    "minute": 30
+  },
+  {
+    "country": "Zambia",
+    "hour": -4,
+    "minute": 30
+  },
+  {
+    "country": "Zimbabwe",
+    "hour": -4,
+    "minute": 30
+  }
+]
